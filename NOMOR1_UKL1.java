@@ -68,11 +68,6 @@ public class NOMOR1_UKL1 {
     }
 }
 
-/*
- * while (n > 50) {
- * System.out.println("Maaf, saya hanya bisa mendeteksi bilangan kurang dari 50"
- * );
- * 
- * n = input.nextInt();
- * }
- */
+
+ 
+
